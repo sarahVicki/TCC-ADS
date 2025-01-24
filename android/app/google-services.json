@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875851683004",
+    "project_id": "encontresaloes",
+    "storage_bucket": "encontresaloes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875851683004:android:8f011e29d7172ade982cb9",
+        "android_client_info": {
+          "package_name": "com.mycompany.saloes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKyUK1cKnhJs_DC6SwuN1rgQKMWpmuahQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
