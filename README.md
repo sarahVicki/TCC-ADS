@@ -2,7 +2,7 @@
 
 Trabalho de Conclusão do Curso de Análise e desenvolvimento de sistemas
 
-# Título: 
+# Título
 
 Sistema de agendamento e gestão de estabelecimentos estéticos
 
