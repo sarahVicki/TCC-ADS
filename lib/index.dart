@@ -1,0 +1,90 @@
+// Export pages
+export '/cliente/cliente_perfil_cliente/cliente_perfil_cliente_widget.dart'
+    show ClientePerfilClienteWidget;
+export '/cliente/cliente_perfil_profissional/cliente_perfil_profissional_widget.dart'
+    show ClientePerfilProfissionalWidget;
+export '/cliente/cliente_lista_avaliacoes/cliente_lista_avaliacoes_widget.dart'
+    show ClienteListaAvaliacoesWidget;
+export '/cliente/cliente_perfil_salao/cliente_perfil_salao_widget.dart'
+    show ClientePerfilSalaoWidget;
+export '/cliente/cliente_favoritos/cliente_favoritos_widget.dart'
+    show ClienteFavoritosWidget;
+export '/profissional/profissional_configuracoes/profissional_configuracoes_widget.dart'
+    show ProfissionalConfiguracoesWidget;
+export '/salao/salao_alterar_perfil/salao_alterar_perfil_widget.dart'
+    show SalaoAlterarPerfilWidget;
+export '/pages/login/login_widget.dart' show LoginWidget;
+export '/cliente/cliente_configuracoes/cliente_configuracoes_widget.dart'
+    show ClienteConfiguracoesWidget;
+export '/cliente/agendar_com_salao/agendar_com_salao_widget.dart'
+    show AgendarComSalaoWidget;
+export '/salao/salao_configuracoes/salao_configuracoes_widget.dart'
+    show SalaoConfiguracoesWidget;
+export '/salao/salao_horarios/salao_horarios_widget.dart'
+    show SalaoHorariosWidget;
+export '/profissional/profissional_horarios/profissional_horarios_widget.dart'
+    show ProfissionalHorariosWidget;
+export '/cliente/encontrar_salao/encontrar_salao_widget.dart'
+    show EncontrarSalaoWidget;
+export '/pages/cadastro/cadastro_widget.dart' show CadastroWidget;
+export '/profissional/profissional_perfil/profissional_perfil_widget.dart'
+    show ProfissionalPerfilWidget;
+export '/cliente/cliente_lista_profissionais/cliente_lista_profissionais_widget.dart'
+    show ClienteListaProfissionaisWidget;
+export '/profissional/notificacoes_profissional/notificacoes_profissional_widget.dart'
+    show NotificacoesProfissionalWidget;
+export '/search_profissionais/search_profissionais_widget.dart'
+    show SearchProfissionaisWidget;
+export '/cliente/cliente_minhas_avaliacoes/cliente_minhas_avaliacoes_widget.dart'
+    show ClienteMinhasAvaliacoesWidget;
+export '/profissional/profissional_alterar_perfil/profissional_alterar_perfil_widget.dart'
+    show ProfissionalAlterarPerfilWidget;
+export '/cliente/cliente_servicos_agendados/cliente_servicos_agendados_widget.dart'
+    show ClienteServicosAgendadosWidget;
+export '/salao/salao_confirmar_presenca/salao_confirmar_presenca_widget.dart'
+    show SalaoConfirmarPresencaWidget;
+export '/cliente/cliente_historico/cliente_historico_widget.dart'
+    show ClienteHistoricoWidget;
+export '/cliente/cliente_avaliacao_salao/cliente_avaliacao_salao_widget.dart'
+    show ClienteAvaliacaoSalaoWidget;
+export '/profissional/profissional_calendario/profissional_calendario_widget.dart'
+    show ProfissionalCalendarioWidget;
+export '/cliente/cliente_avaliacao_prof/cliente_avaliacao_prof_widget.dart'
+    show ClienteAvaliacaoProfWidget;
+export '/salao/salao_calendario/salao_calendario_widget.dart'
+    show SalaoCalendarioWidget;
+export '/cliente/cliente_list_ava_salao/cliente_list_ava_salao_widget.dart'
+    show ClienteListAvaSalaoWidget;
+export '/salao/salao_perfil_salao/salao_perfil_salao_widget.dart'
+    show SalaoPerfilSalaoWidget;
+export '/profissional/profissional_complete_perfil/profissional_complete_perfil_widget.dart'
+    show ProfissionalCompletePerfilWidget;
+export '/salao/salao_complete_perfil/salao_complete_perfil_widget.dart'
+    show SalaoCompletePerfilWidget;
+export '/cliente/agendar_com_prof/agendar_com_prof_widget.dart'
+    show AgendarComProfWidget;
+export '/cliente/cliente_lista_profissionais_copy/cliente_lista_profissionais_copy_widget.dart'
+    show ClienteListaProfissionaisCopyWidget;
+export '/profissional/prof_agendar_cliente_com_salao/prof_agendar_cliente_com_salao_widget.dart'
+    show ProfAgendarClienteComSalaoWidget;
+export '/profissional/prof_servicos_para_agendar/prof_servicos_para_agendar_widget.dart'
+    show ProfServicosParaAgendarWidget;
+export '/salao/salao_servicos_para_agendar/salao_servicos_para_agendar_widget.dart'
+    show SalaoServicosParaAgendarWidget;
+export '/salao/salao_agendar_cliente/salao_agendar_cliente_widget.dart'
+    show SalaoAgendarClienteWidget;
+export '/pages/esqueci_senha/esqueci_senha_widget.dart' show EsqueciSenhaWidget;
+export '/profissional/prof_confirmar_presenca/prof_confirmar_presenca_widget.dart'
+    show ProfConfirmarPresencaWidget;
+export '/cliente/encontrar_salao_copy/encontrar_salao_copy_widget.dart'
+    show EncontrarSalaoCopyWidget;
+export '/profissional/prof_dash_board/prof_dash_board_widget.dart'
+    show ProfDashBoardWidget;
+export '/salao/salao_dash_board/salao_dash_board_widget.dart'
+    show SalaoDashBoardWidget;
+export '/search_profissionais_copy/search_profissionais_copy_widget.dart'
+    show SearchProfissionaisCopyWidget;
+export '/salao/salao_informacoes/salao_informacoes_widget.dart'
+    show SalaoInformacoesWidget;
+export '/profissional/prof_agendar_cliente_sem_salao/prof_agendar_cliente_sem_salao_widget.dart'
+    show ProfAgendarClienteSemSalaoWidget;
