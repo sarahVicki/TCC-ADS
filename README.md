@@ -8,8 +8,7 @@ Sistema de agendamento e gestão de estabelecimentos estéticos
 
 # Alunos
 
-Daniel de Andrade Mendes
-Sarah Vitória Luiz Vanderei
+Daniel de Andrade Mendes e Sarah Vitória Luiz Vanderei
 
 
 
