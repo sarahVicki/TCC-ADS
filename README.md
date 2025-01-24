@@ -1,2 +1,7 @@
-# TCC-ADS
-Trabalho de Conclusão do Curso de Análise e desenvolvimento de sistemas
+# Saloes
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
