@@ -19,7 +19,7 @@ class BuscarLugaresCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
       },
       params: {},
       returnBody: true,
@@ -53,7 +53,7 @@ class BuscarSaloesCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
         'Authorization':
             'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
       },
@@ -82,7 +82,7 @@ class BuscarServicosCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
         'Authorization':
             'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
       },
@@ -111,7 +111,7 @@ class BuscarProfissionaisCall {
         'Authorization':
             'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
       },
       params: {},
       returnBody: true,
@@ -136,54 +136,11 @@ class ListarProfissionaisCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
         'Authorization':
             'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
       },
       params: {},
-      returnBody: true,
-      encodeBodyUtf8: false,
-      decodeUtf8: false,
-      cache: false,
-      isStreamingApi: false,
-      alwaysAllowBody: false,
-    );
-  }
-}
-
-class EmailBrevoCall {
-  static Future<ApiCallResponse> call({
-    String? nome = '',
-    String? email = '',
-    String? descricao = '',
-  }) async {
-    final ffApiRequestBody = '''
-{
-  "sender": {
-    "email": "sarah.22204708360058@faeterj-rio.edu.br"
-  },
-  "to": [
-    {
-      "email": "${email}",
-      "name": "${nome}"
-    }
-  ],
-  "subject": "${descricao}",
-  "htmlContent": "<html><head></head><body><p>Olá,</p>Não se esqueça do seu compromisso</body></html>"
-}''';
-    return ApiManager.instance.makeApiCall(
-      callName: 'emailBrevo',
-      apiUrl: 'https://api.brevo.com/v3/smtp/email',
-      callType: ApiCallType.POST,
-      headers: {
-        'accept': 'application/json',
-        'api-key':
-            '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',
-        'content-type': 'application/json',
-      },
-      params: {},
-      body: ffApiRequestBody,
-      bodyType: BodyType.JSON,
       returnBody: true,
       encodeBodyUtf8: false,
       decodeUtf8: false,
@@ -203,7 +160,7 @@ class BuscarEnderecosCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
       },
       params: {},
       returnBody: true,
@@ -227,7 +184,7 @@ class SearchProfissionaisCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
         'Authorization':
             'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
       },
@@ -255,7 +212,7 @@ class FiltraNomeServicosCall {
       callType: ApiCallType.GET,
       headers: {
         'apikey':
-            'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
+            '',
         'Authorization':
             'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVvb2N3ZnRxc2hhdXNsZHBuenFlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MjE2NzY4NDQsImV4cCI6MjAzNzI1Mjg0NH0.Qa0oD--zqRj6jh-cx7Nnf7Z1hkHlKJITGbgpGvY1634',
       },
